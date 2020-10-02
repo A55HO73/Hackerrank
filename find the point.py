@@ -1,3 +1,10 @@
+"""problem link https://www.hackerrank.com/challenges/find-point/problem"""
+
+
+
+
+
+
 t=int(input())
 for i in range(t):
     a=list(map(int,input().split()))
